@@ -7,22 +7,22 @@ playerLivesCount.textContent = playerlives;
 
 
 const getdata = [
-{imgSrc: "./img1.webp", name:"img11"},
-{imgSrc: "./img2.webp", name:"img21"},
-{imgSrc: "./img3.jpeg", name:"img31"},
-{imgSrc: "./img4.jpeg", name:"img41"},
-{imgSrc: "./img5.jpeg", name:"img51"},
-{imgSrc: "./img6.jpeg", name:"img61"},
-{imgSrc: "./img7.png", name:"img71"},
-{imgSrc: "./img8.webp", name:"img81"},
-{imgSrc: "./img1.webp", name:"img11"},
-{imgSrc: "./img2.webp", name:"img21"},
-{imgSrc: "./img3.jpeg", name:"img31"},
-{imgSrc: "./img4.jpeg", name:"img41"},
-{imgSrc: "./img5.jpeg", name:"img51"},
-{imgSrc: "./img6.jpeg", name:"img61"},
-{imgSrc: "./img7.png", name:"img71"},
-{imgSrc: "./img8.webp", name:"img81"}
+    {imgSrc: "./image/img1.webp", name:"img11"},
+    {imgSrc: "./image/img2.webp", name:"img21"},
+    {imgSrc: "./image/img3.jpeg", name:"img31"},
+    {imgSrc: "./image/img4.jpeg", name:"img41"},
+    {imgSrc: "./image/img5.jpeg", name:"img51"},
+    {imgSrc: "./image/img6.jpeg", name:"img61"},
+    {imgSrc: "./image/img7.png", name:"img71"},
+    {imgSrc: "./image/img8.webp", name:"img81"},
+    {imgSrc: "./image/img1.webp", name:"img11"},
+    {imgSrc: "./image/img2.webp", name:"img21"},
+    {imgSrc: "./image/img3.jpeg", name:"img31"},
+    {imgSrc: "./image/img4.jpeg", name:"img41"},
+    {imgSrc: "./image/img5.jpeg", name:"img51"},
+    {imgSrc: "./image/img6.jpeg", name:"img61"},
+    {imgSrc: "./image/img7.png", name:"img71"},
+    {imgSrc: "./image/img8.webp", name:"img81"}
 ];
 
 const randomize = () => {
